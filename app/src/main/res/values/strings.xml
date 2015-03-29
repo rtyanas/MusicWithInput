@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicRandomInput</string>
+    <string name="go_button">Play Music</string>
+    <string name="dummy_content">Text Music Control</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\pre-dexed\debug\classes-3ee6f89f9c349752c399e3da8460621abe0b1c20.jar" />
+    </item>
+    <item
+        jar="C:\Android\adt-bundle-windows-x86_64-20130522\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-841d5415207110f4725e47c11abf3843b01f595b.jar" />
+    </item>
+    <item
+        jar="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\pre-dexed\debug\classes-8e5cdc8914057cf5e687f245f4f24991b2238ba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\RT\Android\MusicRandomInput\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-acc5543d95d5b3b9ab19e6a1f5b4de8682854ee1.jar" />
+    </item>
+
+</items>
